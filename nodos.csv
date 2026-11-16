@@ -1,0 +1,11 @@
+Origen,Destino,Peso
+CUCEI,Centro,15
+CUCEI,Tlaquepaque,10
+CUCEI,Chapultepec,22
+Centro,Chapultepec,8
+Centro,Zapopan,20
+Tlaquepaque,Plaza del Sol,18
+Chapultepec,Minerva,6
+Minerva,Zapopan,12
+Minerva,Plaza del Sol,9
+Plaza del Sol,Zapopan,16
